@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rezahkh.github.io/chatromshiraz/sitemap.xml
